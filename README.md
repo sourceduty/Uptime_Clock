@@ -10,7 +10,7 @@ Uptime Clock utilizes the tkinter library to create a graphical user interface (
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Python Utilities](https://github.com/sourceduty/Python/Utilities)
+[Python Utilities](https://github.com/sourceduty/Python_Utilities)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
